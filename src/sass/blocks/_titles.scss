@@ -1,0 +1,19 @@
+h1 {
+    color: #ffffff;
+    font-size: 42px;
+    font-weight: 700;
+    text-align: right;
+    text-transform: uppercase;
+    margin-top: 91px;
+    span {
+            font-size: 24px;
+            font-weight: 500;
+            display: block;
+    }
+}
+.h2 {
+    color: $text-color;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}

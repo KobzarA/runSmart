@@ -1,0 +1,25 @@
+.carusel {
+    padding:108px 0;
+    
+    img {
+        display: block;
+        margin: 0 auto;
+        width: 90%;
+    }
+    .prev, .next {
+        background-color: #fff;
+        border:none;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .prev {
+        left: -66px;
+    }
+    .next {
+        right: -66px;
+    }
+    .tns__outer {
+        width: 90%;
+    }
+}
